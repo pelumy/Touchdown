@@ -24,9 +24,11 @@ struct ContentView: View {
                 ScrollView(.vertical, showsIndicators: true, content: {
                     FeaturedTabView()
                         .padding(.vertical, 20)
+                    CategoryGridView()
                     FooterView()
                         .padding(.horizontal)
                 }) //: SCROLL
+                
                 
             } //: VSTACK
             .background(colorBackground.ignoresSafeArea(.all, edges: .all))
