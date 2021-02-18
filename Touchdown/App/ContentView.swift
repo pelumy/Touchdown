@@ -32,6 +32,11 @@ struct ContentView: View {
                                 .padding(15)
                         } //: LOOP
                     }) //: VGRID
+                    
+                    TitleView(title: "Brands")
+                    
+                    BrandGridView()
+                    
                     FooterView()
                         .padding(.horizontal)
                 }) //: SCROLL
