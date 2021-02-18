@@ -41,6 +41,7 @@
 		043EBACE25DEC2A100A83E7D /* RatingsSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043EBACD25DEC2A100A83E7D /* RatingsSizesDetailView.swift */; };
 		043EBAD225DECCE200A83E7D /* QuantityFavoriteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043EBAD125DECCE200A83E7D /* QuantityFavoriteDetailView.swift */; };
 		043EBAD525DED13000A83E7D /* AddToCartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043EBAD425DED13000A83E7D /* AddToCartDetailView.swift */; };
+		043EBAD825DED75500A83E7D /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043EBAD725DED75500A83E7D /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		043EBACD25DEC2A100A83E7D /* RatingsSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsSizesDetailView.swift; sourceTree = "<group>"; };
 		043EBAD125DECCE200A83E7D /* QuantityFavoriteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavoriteDetailView.swift; sourceTree = "<group>"; };
 		043EBAD425DED13000A83E7D /* AddToCartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetailView.swift; sourceTree = "<group>"; };
+		043EBAD725DED75500A83E7D /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 			children = (
 				043EBA8025DE614800A83E7D /* Constant.swift */,
 				043EBACA25DEC09A00A83E7D /* CustomShape.swift */,
+				043EBAD725DED75500A83E7D /* Shop.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				043EBAA025DE85D100A83E7D /* CategoryItemView.swift in Sources */,
 				043EBA9A25DE822100A83E7D /* FeaturedTabView.swift in Sources */,
 				043EBACB25DEC09A00A83E7D /* CustomShape.swift in Sources */,
+				043EBAD825DED75500A83E7D /* Shop.swift in Sources */,
 				043EBA9125DE7ED400A83E7D /* PlayerModel.swift in Sources */,
 				043EBAB225DE976F00A83E7D /* BrandModel.swift in Sources */,
 				043EBAA925DE91C200A83E7D /* TitleView.swift in Sources */,
