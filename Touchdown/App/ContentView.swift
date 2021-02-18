@@ -25,6 +25,13 @@ struct ContentView: View {
                     FeaturedTabView()
                         .padding(.vertical, 20)
                     CategoryGridView()
+                    TitleView(title: "Helmet")
+                    LazyVGrid(columns: gridlayout, alignment: .center, spacing: 15, pinnedViews: /*@START_MENU_TOKEN@*/[]/*@END_MENU_TOKEN@*/, content: {
+                        ForEach(products) { product in
+                            ProductItemView(product: product)
+                                .padding(15)
+                        } //: LOOP
+                    }) //: VGRID
                     FooterView()
                         .padding(.horizontal)
                 }) //: SCROLL
