@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@itunu_raimi](https://twitter.com/itunu_raimi) - email@example.com
+Your Name - [@itunu_raimi](https://twitter.com/itunu_raimi) - chavitunu@gmail.com
 
 Project Link: [https://github.com/pelumy/Touchdown](https://github.com/pelumy/Touchdown)
 
